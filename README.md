@@ -1,6 +1,6 @@
 # Knee Osteoarthritis Detection and Classification from X-Rays using Deep Learning
 
-**Abstract: **
+**Abstract:**
 Knee osteoarthritis is the predominant type
 of arthritis, affecting joint tissues and afflicting millions
 of individuals globally. At present, there are no medications
